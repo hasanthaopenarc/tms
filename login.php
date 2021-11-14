@@ -29,7 +29,7 @@ if(isset($_POST['email'])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Form</title>
+    <title>Login Area</title>
 </head>
 <body>
     <h2>Login Area - TMS</h2>
